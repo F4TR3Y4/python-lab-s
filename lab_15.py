@@ -9,9 +9,9 @@ while True:
     for i in range(5):
         guess = int(input())
         if guess > secret:
-            print("Загаданное число меньше")
+            print("число меньше")
         elif guess < secret:
-            print("Загаданное число больше")
+            print("число больше")
         else:
             print("Вы выиграли!")
             win = True
