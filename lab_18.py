@@ -1,5 +1,5 @@
 import string
-words = ["hallo", "klempner", "das", "ist", "fantastisch", "fluggegecheimen"]
+words = ["dead", "body", "ressurection", "first", "poison", "blade"]
 chances = {}
 countInWords = {}
 for letter in string.ascii_lowercase:
